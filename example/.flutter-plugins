@@ -1,0 +1,8 @@
+# This is a generated file; do not edit or check into version control.
+camera_android_camerax=/home/sumit/StudioProjects/packages/packages/camera/camera_android_camerax/
+espresso=/home/sumit/.pub-cache/hosted/pub.dev/espresso-0.4.0+1/
+integration_test=/home/sumit/softwares/flutter/packages/integration_test/
+video_player=/home/sumit/.pub-cache/git/video_player-914bb448dd9dc099fb13916b601ba96c6736a8c0/
+video_player_android=/home/sumit/.pub-cache/git/video_player_android-ff0b4192f4a406b46adf12c9c27fb71a26d5e188/
+video_player_avfoundation=/home/sumit/.pub-cache/git/video_player_avfoundation-e59a40acfd8eb69d485712670ccf127c7b52f7fa/
+video_player_web=/home/sumit/.pub-cache/git/video_player_web-9720ea944dd4aca03098c07a3f9fb31b86b81f08/
