@@ -23,13 +23,13 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "0.6.10+1"
+    version: "0.6.14+1"
   camera_platform_interface:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: ac9449b5a5075213ea2aaccea88cc9fd85859110
+      resolved-ref: f3e362097a47ea57a30247ba755da7d0c90e5600
       url: "https://github.com/kumsumit/camera_platform_interface.git"
     source: git
     version: "2.8.0"
@@ -69,18 +69,18 @@ packages:
     dependency: transitive
     description:
       name: csslib
-      sha256: "706b5707578e0c1b4b7550f64078f0a0f19dec3f50a178ffae7006b0a9ca58fb"
+      sha256: "09bad715f418841f976c77db72d5398dc1253c21fb9c0c7f0b0b985860b2d58e"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.2"
   espresso:
     dependency: "direct dev"
     description:
       name: espresso
-      sha256: ceb78974a79f266c9acc13c476e84e877ee320cadff857d9c3fbc425d27a46d4
+      sha256: "157da71b0845b336cb6270bcc39ac31c4d99ae537912806ebc848153afa56a0f"
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.0+1"
+    version: "0.4.0+6"
   fake_async:
     dependency: transitive
     description:
@@ -126,10 +126,10 @@ packages:
     dependency: transitive
     description:
       name: html
-      sha256: "3a7812d5bcd2894edf53dfaf8cd640876cf6cef50a8f238745c8b8120ea74d3a"
+      sha256: "1fc58edeaec4307368c60d59b7e15b9d658b57d7f3125098b6294153c75337ec"
       url: "https://pub.dev"
     source: hosted
-    version: "0.15.4"
+    version: "0.15.5"
   integration_test:
     dependency: "direct dev"
     description: flutter
@@ -204,7 +204,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "0258f99fc7505eebfc1332998552f585cb27751d"
+      resolved-ref: "5b87c0b21d7dfa69ff1b00993bc6f895ab5b0de5"
       url: "https://github.com/kumsumit/plugin_platform_interface.git"
     source: git
     version: "2.1.8"
@@ -249,10 +249,10 @@ packages:
     dependency: transitive
     description:
       name: stream_transform
-      sha256: "14a00e794c7c11aa145a170587321aedce29769c08d7f58b1d141da75e3b1c6f"
+      sha256: ad47125e588cfd37a9a7f86c7d6356dde8dfe89d071d293f80ca9e9273a33871
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.0"
+    version: "2.1.1"
   string_scanner:
     dependency: transitive
     description:
@@ -298,46 +298,46 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "914bb448dd9dc099fb13916b601ba96c6736a8c0"
+      resolved-ref: "6c973f286e5dbb6d8d2350c08bcc310f89bd7887"
       url: "https://github.com/kumsumit/video_player.git"
     source: git
-    version: "2.8.6"
+    version: "2.9.2"
   video_player_android:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: ff0b4192f4a406b46adf12c9c27fb71a26d5e188
+      resolved-ref: "9fc6bbe971a92c8341334e61c6cbdb9b8611398d"
       url: "https://github.com/kumsumit/video_player_android.git"
     source: git
-    version: "2.4.13"
+    version: "2.7.16"
   video_player_avfoundation:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: e59a40acfd8eb69d485712670ccf127c7b52f7fa
+      resolved-ref: "315b7b863f5c214ee2ff44147ef8f141e99fe6d3"
       url: "https://github.com/kumsumit/video_player_avfoundation.git"
     source: git
-    version: "2.5.7"
+    version: "2.6.5"
   video_player_platform_interface:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b235bcbf90166736d0f0370414498499314f9491
+      resolved-ref: "19eee9ffa4c24038c4485a467d2ef891e6c2f039"
       url: "https://github.com/kumsumit/video_player_platform_interface.git"
     source: git
-    version: "6.2.2"
+    version: "6.2.3"
   video_player_web:
     dependency: transitive
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "9720ea944dd4aca03098c07a3f9fb31b86b81f08"
+      resolved-ref: "104c5b9345dc121563437d45ca43f320dbe01386"
       url: "https://github.com/kumsumit/video_player_web.git"
     source: git
-    version: "2.3.0"
+    version: "2.3.3"
   vm_service:
     dependency: transitive
     description:
@@ -350,10 +350,10 @@ packages:
     dependency: transitive
     description:
       name: web
-      sha256: "97da13628db363c635202ad97068d47c5b8aa555808e7a9411963c533b449b27"
+      sha256: "868d88a33d8a87b18ffc05f9f030ba328ffefba92d6c127917a2ba740f9cfe4a"
       url: "https://pub.dev"
     source: hosted
-    version: "0.5.1"
+    version: "1.1.1"
   webdriver:
     dependency: transitive
     description:
@@ -364,4 +364,4 @@ packages:
     version: "3.0.4"
 sdks:
   dart: ">=3.7.0-0 <4.0.0"
-  flutter: ">=3.24.0"
+  flutter: ">=3.27.0"
